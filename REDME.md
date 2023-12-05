@@ -9,3 +9,30 @@
 - Companhias aéreas
 - Preços por trechos
 - Clientes
+
+## FUNCIONAMENTO
+
+### SERVICE-CLIENTES
+#### Entidades
+
+- **pessoa**
+<br>id
+<br>nome
+<br>email
+<br>senha
+<br>cpf
+ 
+### SERVICE-COMPANHIAS-AEREAS
+#### Entidades
+
+- **ciaaerea**
+<br>id
+<br>nome
+
+
+***
+#### Colaboradores
+
+- Nicolas Gasperin Fernandes  - Developer<br>
+    Linkedin - https://www.linkedin.com/in/nicolasgfe89aa32150/ 
+    Github - https://github.com/nicolasgfe/
