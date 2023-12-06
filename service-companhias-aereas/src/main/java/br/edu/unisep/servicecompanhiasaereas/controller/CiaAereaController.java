@@ -4,12 +4,9 @@ import br.edu.unisep.servicecompanhiasaereas.model.CiaAerea;
 import br.edu.unisep.servicecompanhiasaereas.repository.CiaAereaRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
-import org.springframework.web.ErrorResponse;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.server.ResponseStatusException;
 
 import java.util.List;
-import java.util.Optional;
 
 @RequestMapping("/api/ciaaerea")
 @RestController
