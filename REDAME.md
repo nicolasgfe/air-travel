@@ -41,3 +41,7 @@ Miro - https://miro.com/app/board/uXjVNFtJmHA=/
 - Guilherme de Souza - Developer<br>
     Linkedin - https://www.linkedin.com/in/guilherme-de-souza-764900231/ <br>
     Github - https://github.com/Jabutiranha
+
+
+### DER
+![image](https://github.com/nicolasgfe/air-travel/assets/102191266/aadacd71-c933-4464-a6d1-0db58bc7adc0)
