@@ -26,4 +26,5 @@ public class Rota {
     private Long ciaaereaId;
     //joincolumn
     private Long aviaoId;
+    private Float precoTrecho;
 }

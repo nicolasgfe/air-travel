@@ -6,18 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="service-preco-trecho" />
         <module name="service-clientes" />
         <module name="service-companhias-aereas" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="air-travel" target="19" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="service-clientes" options="-parameters" />
       <module name="service-companhias-aereas" options="-parameters" />
+      <module name="service-preco-trecho" options="-parameters" />
     </option>
   </component>
 </project>
