@@ -35,5 +35,9 @@ Miro - https://miro.com/app/board/uXjVNFtJmHA=/
 #### Colaboradores
 
 - Nicolas Gasperin Fernandes  - Developer<br>
-    Linkedin - https://www.linkedin.com/in/nicolasgfe89aa32150/ 
+    Linkedin - https://www.linkedin.com/in/nicolasgfe89aa32150/ <br>
     Github - https://github.com/nicolasgfe/
+
+- Guilherme de Souza - Developer<br>
+    Linkedin - https://www.linkedin.com/in/guilherme-de-souza-764900231/ <br>
+    Github - https://github.com/Jabutiranha
