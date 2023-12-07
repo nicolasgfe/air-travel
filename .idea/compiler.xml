@@ -9,6 +9,7 @@
         <module name="service-preco-trecho" />
         <module name="service-clientes" />
         <module name="service-companhias-aereas" />
+        <module name="service-preco-passagem" />
       </profile>
     </annotationProcessing>
   </component>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="service-clientes" options="-parameters" />
       <module name="service-companhias-aereas" options="-parameters" />
+      <module name="service-preco-passagem" options="-parameters" />
       <module name="service-preco-trecho" options="-parameters" />
     </option>
   </component>
