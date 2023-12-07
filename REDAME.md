@@ -4,6 +4,7 @@
 ### Deve ter um outro ponto de acesso que irá realizar a consulta dos preços das passagens, este processo é realizado buscando os trechos de varias companhias que podem estar cadastrada em um serviço de cadastro de companhias e trechos operados.
 
 #### Devem ter os seguintes serviços:
+Miro - https://miro.com/app/board/uXjVNFtJmHA=/
 - Ordem de Compra
 - Preços de Passagens
 - Companhias aéreas
