@@ -4,8 +4,36 @@
 ### Deve ter um outro ponto de acesso que irá realizar a consulta dos preços das passagens, este processo é realizado buscando os trechos de varias companhias que podem estar cadastrada em um serviço de cadastro de companhias e trechos operados.
 
 #### Devem ter os seguintes serviços:
+Miro - https://miro.com/app/board/uXjVNFtJmHA=/
 - Ordem de Compra
 - Preços de Passagens
 - Companhias aéreas
 - Preços por trechos
 - Clientes
+
+## FUNCIONAMENTO
+
+### SERVICE-CLIENTES
+#### Entidades
+
+- **pessoa**
+<br>id
+<br>nome
+<br>email
+<br>senha
+<br>cpf
+ 
+### SERVICE-COMPANHIAS-AEREAS
+#### Entidades
+
+- **ciaaerea**
+<br>id
+<br>nome
+
+
+***
+#### Colaboradores
+
+- Nicolas Gasperin Fernandes  - Developer<br>
+    Linkedin - https://www.linkedin.com/in/nicolasgfe89aa32150/ 
+    Github - https://github.com/nicolasgfe/
